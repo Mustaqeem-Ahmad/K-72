@@ -11,11 +11,11 @@ const Projects = () => {
 
 
   const projectImg = [
-    { image1: "public/project1.jpg", image2: "public/project2.jpg" },
-    { image1: "public/project3.jpg", image2: "public/project4.jpg" },
-    { image1: "public/project5.jpg", image2: "public/project6.jpg" },
-    { image1: "public/project7.jpg", image2: "public/project8.jpg" },
-    { image1: "public/project9.jpg", image2: "public/project10.jpg" },
+    { image1: "/project1.jpg", image2: "/project2.jpg" },
+    { image1: "/project3.jpg", image2: "/project4.jpg" },
+    { image1: "/project5.jpg", image2: "/project6.jpg" },
+    { image1: "/project7.jpg", image2: "/project8.jpg" },
+    { image1: "/project9.jpg", image2: "/project10.jpg" },
 
     
 
