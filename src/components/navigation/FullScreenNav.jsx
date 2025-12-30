@@ -125,7 +125,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className=" lg:h-20 h-16  shrink-0 rounded-full w-36 lg:w-64"
-                  src="public/navimg1.jpg"
+                  src="/navimg1.jpg"
                   alt=""
                 />
                 <h2 className="font-[font2] whitespace-nowrap leading-[0.8] pt-4 tracking-tight text-center font-bold text-[14vw] lg:text-[8vw] uppercase">
@@ -133,7 +133,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="lg:h-20 h-16 shrink-0 object-cover rounded-full w-36 lg:w-64"
-                  src="public/navimg2.jpg"
+                  src="/navimg2.jpg"
                   alt=""
                 />
               </div>
@@ -143,7 +143,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className=" lg:h-20 h-16 shrink-0 rounded-full w-36 lg:w-64"
-                  src="public/navimg1.jpg"
+                  src="/navimg1.jpg"
                   alt=""
                 />
                 <h2 className="font-[font2] whitespace-nowrap leading-[0.8] pt-4 tracking-tight text-center font-bold text-[14vw] lg:text-[8vw] uppercase">
@@ -151,7 +151,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="lg:h-20 h-16 shrink-0 object-cover rounded-full w-36 lg:w-64"
-                  src="public/navimg2.jpg"
+                  src="/navimg2.jpg"
                   alt=""
                 />
               </div>
@@ -168,7 +168,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className=" lg:h-20 h-16 shrink-0 rounded-full w-40 lg:w-64"
-                  src="public/navimg3.jpg"
+                  src="/navimg3.jpg"
                   alt=""
                 />
                 <h2 className="font-[font2] whitespace-nowrap leading-[0.8] pt-4 tracking-tight text-center font-bold text-[14vw] lg:text-[8vw] uppercase">
@@ -176,7 +176,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className=" lg:h-20 h-16 shrink-0 rounded-full object-cover w-40 lg:w-64"
-                  src="public/navimg4.jpg"
+                  src="/navimg4.jpg"
                   alt=""
                 />
               </div>
@@ -186,7 +186,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="  lg:h-20 h-16 shrink-0 rounded-full w-40 lg:w-64"
-                  src="public/navimg3.jpg"
+                  src="/navimg3.jpg"
                   alt=""
                 />
                 <h2 className="font-[font2] whitespace-nowrap leading-[0.8] pt-4 tracking-tight text-center font-bold text-[14vw] lg:text-[8vw] uppercase">
@@ -194,7 +194,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className=" lg:h-20 h-16 object-cover shrink-0 rounded-full w-40 lg:w-64"
-                  src="public/navimg4.jpg"
+                  src="/navimg4.jpg"
                   alt=""
                 />
               </div>
@@ -211,7 +211,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className=" lg:h-20 h-16 shrink-0 rounded-full w-40 lg:w-64"
-                  src="public/navimg1.jpg"
+                  src="/navimg1.jpg"
                   alt=""
                 />
                 <h2 className="font-[font2] whitespace-nowrap leading-[0.8] pt-4 tracking-tight text-center font-bold text-[14vw] lg:text-[8vw] uppercase">
@@ -219,7 +219,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className=" lg:h-20 h-16 shrink-0 object-cover rounded-full w-40 lg:w-64"
-                  src="public/navimg2.jpg"
+                  src="/navimg2.jpg"
                   alt=""
                 />
               </div>
@@ -229,7 +229,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className=" lg:h-20 h-16 shrink-0 rounded-full w-40 lg:w-64"
-                  src="public/navimg1.jpg"
+                  src="/navimg1.jpg"
                   alt=""
                 />
                 <h2 className="font-[font2] whitespace-nowrap leading-[0.8] pt-4 tracking-tight text-center font-bold text-[14vw] lg:text-[8vw] uppercase">
@@ -237,7 +237,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className=" lg:h-20 h-16 shrink-0 object-cover rounded-full w-40 lg:w-64"
-                  src="public/navimg2.jpg"
+                  src="/navimg2.jpg"
                   alt=""
                 />
               </div>
@@ -254,7 +254,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className=" lg:h-20 h-16 shrink-0 rounded-full w-40 lg:w-64"
-                  src="public/navimg5.png"
+                  src="/navimg5.png"
                   alt=""
                 />
                 <h2 className="font-[font2] whitespace-nowrap leading-[0.8] pt-4 tracking-tight text-center font-bold text-[14vw] lg:text-[8vw] uppercase">
@@ -262,7 +262,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className=" lg:h-20 h-16 shrink-0 object-cover rounded-full w-40 lg:w-64"
-                  src="public/navimg6.gif"
+                  src="/navimg6.gif"
                   alt=""
                 />
               </div>
@@ -272,7 +272,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className=" lg:h-20 h-16 shrink-0 rounded-full w-40 lg:w-64"
-                  src="public/navimg5.png"
+                  src="/navimg5.png"
                   alt=""
                 />
                 <h2 className="font-[font2] whitespace-nowrap leading-[0.8] pt-4 tracking-tight text-center font-bold text-[14vw] lg:text-[8vw] uppercase">
@@ -280,7 +280,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className=" lg:h-20 h-16 shrink-0 object-cover rounded-full w-40 lg:w-64"
-                  src="public/navimg6.gif"
+                  src="/navimg6.gif"
                   alt=""
                 />
               </div>
