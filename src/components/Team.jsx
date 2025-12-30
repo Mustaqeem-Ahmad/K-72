@@ -67,20 +67,20 @@ const TeamMember = ({ id, name, role, img }) => {
 
 const Team = () => {
   const members = [
-    { id: "01", name: "CARL GOUDBOT", role: "Conseillere", img: "public/1.jpg.jpg" },
-    { id: "02", name: "CHRIS MEUNER", role: "COO", img: "public/2.jpg.jpg" },
-    { id: "03", name: "CARLINE NIETO", role: "Chief Product Officer", img: "public/3.jpg.jpg" },
-    { id: "04", name: "VICTOR ALBERTOS", role: "CTO", img: "public/4.jpg.jpg" },
-    { id: "05", name: "ADRIAN RUNIO", role: "CTO", img: "public/5.jpg.jpg" },
-    { id: "06", name: "OLIVER MACKARTY", role: "Chief Executive Officer", img: "public/6.jpg.jpg" },
-    { id: "07", name: "LAWRENS KOHA", role: "COO", img: "public/7.jpg.jpg" },
-    { id: "08", name: "SOPHIE AUGER", role: "Chief Product Officer", img: "public/8.jpg.jpg" },
-    { id: "09", name: "MICHELE RIENDEAU", role: "CTO", img: "public/9.jpg.jpg" },
-    { id: "10", name: "MEL RUBIO", role: "CTO", img: "public/10.jpg.jpg" },
-    { id: "11", name: "CHANTEL GOBEL", role: "Chief Executive Officer", img: "public/11.jpg.jpg" },
-    { id: "12", name: "MAXIME KOHA", role: "COO", img: "public/12.jpg.jpg" },
-    { id: "13", name: "MAGGIE LAVOIE", role: "Chief Product Officer", img: "public/13.jpg.jpg" },
-    { id: "14", name: "JOEL ALBERTOS", role: "CTO", img: "public/14.jpg.jpg" },
+    { id: "01", name: "CARL GOUDBOT", role: "Conseillere", img: "/1.jpg.jpg" },
+    { id: "02", name: "CHRIS MEUNER", role: "COO", img: "/2.jpg.jpg" },
+    { id: "03", name: "CARLINE NIETO", role: "Chief Product Officer", img: "/3.jpg.jpg" },
+    { id: "04", name: "VICTOR ALBERTOS", role: "CTO", img: "/4.jpg.jpg" },
+    { id: "05", name: "ADRIAN RUNIO", role: "CTO", img: "/5.jpg.jpg" },
+    { id: "06", name: "OLIVER MACKARTY", role: "Chief Executive Officer", img: "/6.jpg.jpg" },
+    { id: "07", name: "LAWRENS KOHA", role: "COO", img: "/7.jpg.jpg" },
+    { id: "08", name: "SOPHIE AUGER", role: "Chief Product Officer", img: "/8.jpg.jpg" },
+    { id: "09", name: "MICHELE RIENDEAU", role: "CTO", img: "/9.jpg.jpg" },
+    { id: "10", name: "MEL RUBIO", role: "CTO", img: "/10.jpg.jpg" },
+    { id: "11", name: "CHANTEL GOBEL", role: "Chief Executive Officer", img: "/11.jpg.jpg" },
+    { id: "12", name: "MAXIME KOHA", role: "COO", img: "/12.jpg.jpg" },
+    { id: "13", name: "MAGGIE LAVOIE", role: "Chief Product Officer", img: "/13.jpg.jpg" },
+    { id: "14", name: "JOEL ALBERTOS", role: "CTO", img: "/14.jpg.jpg" },
     
 
   ];
