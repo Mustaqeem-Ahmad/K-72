@@ -15,20 +15,20 @@ const Agence = () => {
   const imageRef = useRef(null);
 
   const imageArray = [
-    "public/1.jpg.jpg",
-    "public/2.jpg.jpg",
-    "public/3.jpg.jpg",
-    "public/4.jpg.jpg",
-    "public/5.jpg.jpg",
-    "public/6.jpg.jpg",
-    "public/7.jpg.jpg",
-    "public/8.jpg.jpg",
-    "public/9.jpg.jpg",
-    "public/10.jpg.jpg",
-    "public/11.jpg.jpg",
-    "public/12.jpg.jpg",
-    "public/13.jpg.jpg",
-    "public/14.jpg.jpg",
+    "/1.jpg.jpg",
+    "/2.jpg.jpg",
+    "/3.jpg.jpg",
+    "/4.jpg.jpg",
+    "/5.jpg.jpg",
+    "/6.jpg.jpg",
+    "/7.jpg.jpg",
+    "/8.jpg.jpg",
+    "/9.jpg.jpg",
+    "/10.jpg.jpg",
+    "/11.jpg.jpg",
+    "/12.jpg.jpg",
+    "/13.jpg.jpg",
+    "/14.jpg.jpg",
   ];
 
   useGSAP(() => {
